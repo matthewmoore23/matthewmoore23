@@ -1,5 +1,7 @@
 # CS 3366 Human Computer Interaction Project 1 Matthew Moore
 
+I decided on one of the elevators at ULofts for my project. The overall layout of the elevator is good. It's easily readible and accessible, with buttons that light up when you press them and accompanying braile under the letters.
+
 <!--
 **matthewmoore23/matthewmoore23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
