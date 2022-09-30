@@ -1,4 +1,4 @@
-CS 3366 Human Computer Interaction Project 1 Matthew Moore
+# CS 3366 Human Computer Interaction Project 1 Matthew Moore
 
 <!--
 **matthewmoore23/matthewmoore23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
