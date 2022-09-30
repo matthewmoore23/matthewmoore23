@@ -14,5 +14,5 @@
 #### I think the only mistake a user could reasonably make is pressing the wrong door close or open button.
 #### The only improvements I think need to be made are moving the fire operation and maintenance buttons out of the way of the user (towards the bottom) and turning the current floor UI at the top into a screen of some sort. That would change the UI at the top from being uneven into a nice, centered number. The only draw back is that the door close, open, and alarm buttons need to be repositioned in the UI panel, since those buttons, along with a fire operation button, created a nice 2x2 square at the bottom of the UI. I think it's a necessary trade off for creating more space for the common user.
 
-
+ 
 
